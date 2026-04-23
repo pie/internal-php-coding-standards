@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ruleset name="PiePHPStandard">
+<ruleset name="PieStandard">
     <description>WordPress base + custom global rules.</description>
 
     <rule ref="WordPress"/>
