@@ -1,5 +1,5 @@
 {
-    "name": "pie/internal-php-coding-standards",
+    "name": "pieweb/internal-php-coding-standards",
     "description": "Custom PHPCS coding standards",
     "type": "phpcodesniffer-standard",
     "require": {
