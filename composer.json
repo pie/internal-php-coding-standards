@@ -3,6 +3,7 @@
     "description": "Custom PHPCS coding standards",
     "type": "phpcodesniffer-standard",
     "require": {
+        "dealerdirect/phpcodesniffer-composer-installer": "*",
         "wp-coding-standards/wpcs": "*"
     }
 }
