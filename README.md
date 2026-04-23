@@ -2,6 +2,8 @@
 
 Internal PHPCS ruleset extending the [WordPress Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards) with Pie-specific rules.
 
+Link to composer package: https://packagist.org/packages/pieweb/internal-php-coding-standards
+
 ## Rules
 
 Inherits all WordPress rules, plus:
