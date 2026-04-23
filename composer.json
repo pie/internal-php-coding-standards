@@ -1,0 +1,8 @@
+{
+    "name": "pie/internal-php-coding-standards",
+    "description": "Custom PHPCS coding standards",
+    "type": "phpcodesniffer-standard",
+    "require": {
+        "wp-coding-standards/wpcs": "*"
+    }
+}
