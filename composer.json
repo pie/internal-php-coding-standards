@@ -2,6 +2,7 @@
     "name": "pieweb/internal-php-coding-standards",
     "description": "Custom PHPCS coding standards",
     "type": "phpcodesniffer-standard",
+    "license": "proprietary",
     "require": {
         "dealerdirect/phpcodesniffer-composer-installer": "*",
         "wp-coding-standards/wpcs": "*"
